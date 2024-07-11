@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavindu Thennakoon</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;UI+UX+Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+
 
 - 🌱 I’m currently learning **Figma,Framer,Javascript**
 
