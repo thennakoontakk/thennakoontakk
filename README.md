@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, mern ,UI/UX principles**
 
-- 📫 How to reach me **Thennakoontakk@gmail.com**
+- 📫 How to reach me **thennakoontakk@gmail.com**
 
 - ⚡ Fun fact **call me as Kabi**
 
